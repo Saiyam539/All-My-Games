@@ -32,7 +32,7 @@ class luck_draw:
 
 try:
     if __name__ == "__main__":
-        welcome = ('''WELCOME TO SAIYAM'S LUCK DRAW''')
+        welcome = ('''WELCOME TO SAIYAM'S LUCKY DRAW''')
         print(welcome)
 
         luck_draw.greeting()
