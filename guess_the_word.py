@@ -42,7 +42,7 @@ class game(Welcome):
             random_word = 'computer'
         elif random_number==6:
             random_word = 'keyboard'
-        else:
+        elif random_number==7:
             random_word = 'mouse'
 
         guessed_word = input('Enter your guess:- ') 
